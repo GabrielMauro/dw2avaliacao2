@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+/*Formatação de Fontes*/
+div#timenewroman {
+    padding: 10px;
+    border: 2px solid black;
+}
+
+div#arial {
+    padding: 10px;
+    border: 2px solid black;
+}
+
+div#couriernew {
+    padding: 10px;
+    border: 2px solid black;
+}
+
+p.p1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style:normal;
+}
+
+
+p.p2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+p.p3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+p.p4 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:normal;
+}
+
+p.p5 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+p.p6 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+p.p7 {
+    font-family:'Courier New', Courier, monospace;
+    font-style:normal;
+}
+
+p.p8 {
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+p.p9 {
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+}

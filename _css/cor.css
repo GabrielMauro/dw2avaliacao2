@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+/*Lista de Cores*/
+div#cores { 
+    display: block;
+}
+
+div#cores ul {
+    list-style: none;
+    text-align: center;
+    margin: 0px;
+    padding: 0px
+}
+
+div#cores li {
+    display: inline-block;
+    height: 10%;
+    width: 10%;
+    padding: 150px 60px 150px 60px;
+    margin: -2px;
+    text-align: center;
+}
+
+div#cores li.cor_clara {
+    color: black;
+}
+
+div#cores li.cor_escura {
+    color: white;
+}
